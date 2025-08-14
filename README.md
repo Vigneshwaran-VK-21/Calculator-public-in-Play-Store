@@ -16,7 +16,7 @@ This app includes:
 
 A big thank you to everyone who supported me throughout this journey. More exciting projects are on the way!
 
-  You can download and try it out https://play.google.com/store/apps/details?id=appinventor.ai_developmentapps228.Calculator 
+  You can download and try it out https://play.google.com/store/apps/details?id=appinventor.ai_developmentapps228.CALCULATER
 Your feedback would be greatly appreciated!
 
 
